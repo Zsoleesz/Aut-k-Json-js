@@ -1,0 +1,62 @@
+[
+    {
+        "brand": "Ford",
+        "type": "Focus",
+        "factoryYear": 2005
+    },
+    {
+        "brand": "Ford",
+        "type": "Mondeo",
+        "factoryYear": 2003
+    },
+    {
+        "brand": "Fiat",
+        "type": "Brava",
+        "factoryYear": 1997
+    },
+    {
+        "brand": "Suzuki",
+        "type": "Swift",
+        "factoryYear": 1996
+    },
+    {
+        "brand": "Opel",
+        "type": "Astra",
+        "factoryYear": 2007
+    },
+    {
+        "brand": "Volkswagen",
+        "type": "Polo",
+        "factoryYear": 1999
+    },
+    {
+        "brand": "Toyota",
+        "type": "Aygo",
+        "factoryYear": 2003
+    },
+    {
+        "brand": "Fiat",
+        "type": "Panda",
+        "factoryYear": 2008
+    },
+    {
+        "brand": "Fiat",
+        "type": "Ducato",
+        "factoryYear": 2001
+    },
+    {
+        "brand": "Nissan",
+        "type": "Patrol",
+        "factoryYear": 1987
+    },
+    {
+        "brand": "BMW",
+        "type": "i3",
+        "factoryYear": 2020
+    },
+    {
+        "brand": "Renault",
+        "type": "Clio",
+        "factoryYear": 2000
+    }
+]
